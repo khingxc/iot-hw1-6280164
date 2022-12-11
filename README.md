@@ -4,5 +4,6 @@ IoT | Trimester 1 [2022-23] | MUIC
 * student id: 6280164
 * links to videos:
   * task 1 [Disco Light]: https://www.youtube.com/watch?v=r8F6mNXIIqI
+  * task 2 [Ohmmeter]: https://www.youtube.com/watch?v=DibTbcEbkzw
 
 
